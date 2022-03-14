@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: ./images/hero.png
-tagline: UW Find 
+tagline: "" 
 actionText: Learn more →
 actionLink: /guide/
 features:
