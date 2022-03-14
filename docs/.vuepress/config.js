@@ -4,18 +4,18 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'UW Find - Cognitive Search',
+  title: 'UW Converse - Conversational Engine',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
-  description: "Utterworks Find - Cognitive Search Engine",
+  description: "Utterworks Converse - Conversational Engine",
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
    *
    * ref：https://v1.vuepress.vuejs.org/config/#head
    */
-  base: '/find-docs/',
+  base: '/converse-docs/',
   head: [
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
