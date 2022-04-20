@@ -6,5 +6,5 @@ Signup for a [free developer account](https://main.uwfind.utterworks.com) to get
 
 ## Premium account
 
-You can access the premium features of the Find service by signing up through [AWS Marketplace](https://aws.amazon.com/marketplace/pp/B08BLNFBLR). With premium account, you can create unlimited search projects (indexes) and get access to the premium API which allows unlimited API calls.
+You can access the premium features of the Converse service by signing up through [AWS Marketplace](https://aws.amazon.com/marketplace/pp/B08BLNFBLR). With premium account, you can create unlimited search projects (indexes) and get access to the premium API which allows unlimited API calls.
 
