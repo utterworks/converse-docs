@@ -50,6 +50,7 @@ module.exports = {
           collapsable: false,
           children: [
             '',
+            'projects',
             'dialog_building',
             'getting-started/signup',
           ]
