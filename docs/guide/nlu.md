@@ -26,8 +26,15 @@ I want to buy a blue shirt
 I want to buy a red short
 In both cases, the intent is to buy something. The color is a useful information, but we don’t want to have a different intent for each color.
 
-The color is an additional information to extract and that’s a perfect candidate for an entity Entities are elements you want to extract from a user utterance.
+The color is an additional information to extract and that’s a perfect candidate for an entity - Entities are elements you want to extract from a user utterance.
 
-## Trainable Entities
-In most cases you must teach your assistant how and where to find entities in your utterances. You can do this by tagging entities in the user utterances you provide as examples.
+> The platform containes a number of built in entities that are available for use in things like slot extraction. These built in entities include things like time, distance, number, email address
+
+<Important type="info"> Additional custom entities can be created, these can be simple regular expressions, or they can be more complex concepts that the platform can be trained to recognise </Important>
+
+## Training Data
+The NLU recognises intents by being given examples from which it can generalise. Training data for intents is added in the Training Data section. This training data can also be used to identify and train entities too. 
+
+## Trained Entities
+To add trained entities must teach the platform how and where to find these entities in your utterances. You can do this by tagging entities in the user utterances you provide as examples in the training data section.
 
