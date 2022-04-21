@@ -51,6 +51,7 @@ module.exports = {
           children: [
             '',
             'projects',
+            'nlu',
             'dialog_building',
             'getting-started/signup',
           ]
