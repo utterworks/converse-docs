@@ -30,7 +30,7 @@ The color is an additional information to extract and that’s a perfect candida
 
 > The platform containes a number of built in entities that are available for use in things like slot extraction. These built in entities include things like time, distance, number, email address
 
-<Important type="info"> Additional custom entities can be created, these can be simple regular expressions, or they can be more complex concepts that the platform can be trained to recognise </Important>
+==Additional custom entities can be created, these can be simple regular expressions, or they can be more complex concepts that the platform can be trained to recognise==
 
 ## Training Data
 The NLU recognises intents by being given examples from which it can generalise. Training data for intents is added in the Training Data section. This training data can also be used to identify and train entities too. 

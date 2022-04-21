@@ -52,6 +52,7 @@ module.exports = {
             '',
             'projects',
             'nlu',
+            'dialogs',
             'dialog_building',
             'getting-started/signup',
           ]
